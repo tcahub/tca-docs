@@ -1,44 +1,43 @@
 # TCA — Trading Cards Assets
 
-> 纸面草案 · 以正式发布为准 · 不构成财务建议
+> Paper draft · subject to the official release · not financial advice
 
-**TCA（Trading Cards Assets）** 是交易卡主题的代币化发射台原型：一主题一槽一币；质押该主题评级卡、先到先得凑满约 **$1,000** 硬顶后（可多人；超额退回），该主题可发射代币。
+**TCA (Trading Cards Assets)** is a prototype launchpad for trading-card themes: one theme, one slot, one token. Graded cards of that theme are staked until a first-come, first-served hard cap of about **$1,000** is filled (more than one person may join; any excess is returned). That theme can then launch its theme token.
 
-- 官网：[https://tcahub.xyz/](https://tcahub.xyz/)
-- X：[@tapecards](https://x.com/tapecards)
-- 合作方：[Renaiss](https://www.renaiss.xyz/ref/tcahub)（合作，不称绑定）
+- Site: [https://tcahub.xyz/](https://tcahub.xyz/)
+- X: [@tapecards](https://x.com/tapecards)
+- Partner: [Renaiss](https://www.renaiss.xyz/ref/tcahub) (write “partner”; do not write “bound”)
 
-本仓库只放**对外可读的纸面文档**。比例、软顶、解锁与抽奖资格均为草案。
-
----
-
-## 文档索引
-
-| 文件 | 内容 |
-|------|------|
-| [01-overview.md](./01-overview.md) | 定位与一句话 |
-| [02-mechanism.md](./02-mechanism.md) | 从质押到抽奖七步 |
-| [03-fees-treasury.md](./03-fees-treasury.md) | 税费四桶与国库 |
-| [04-buy-protection.md](./04-buy-protection.md) | 买入保护双轨 |
-| [05-lottery.md](./05-lottery.md) | 抽奖资格方向 |
-| [06-dao.md](./06-dao.md) | DAO · 确权 |
-| [07-risk.md](./07-risk.md) | 风险声明 |
+This repository holds **public paper docs** only. Rates, the soft cap, unlock schedules, and lottery eligibility are all draft.
 
 ---
 
-## 已拍板摘要（2026-11-05）
+## Document index
 
-- 定位：让 TCG 更好玩儿 · Trading Cards Assets
-- 一律「评级卡」；与 Renaiss 写「合作」
-- 质押池约 $1,000 硬顶、先到先得；平台可参与约 10–30% 但不独自打满
-- 计入门槛的质押者均分该主题代币供应约 **5%**，再按 **30 天每日解锁**；质押者不一定是主题代币控制人
-- **50% 国库**：平台按规则执行（买主题评级卡 + 回购平台 TCA）
-- 费率四桶：**50 / 20 / 20 / 10**（国库 / 平台 / 广告·归质押参与方 / 回购销毁本币）
-- 买入保护双轨并行；募资软顶约 $100k；余量约 10 天解锁
-- 抽奖：≥10 Renaiss SBT + 持有相应主题代币（数量待定）；约每 24h
-- DAO：暂定 12 席、从社区筛选、人工审核上名单；投票覆盖回购/销毁/支持主题；日常买卡不投票
+| File | What it covers |
+|------|----------------|
+| [01-overview.md](./01-overview.md) | Position and the one-liner |
+| [02-mechanism.md](./02-mechanism.md) | Seven steps from staking to the lottery |
+| [03-fees-treasury.md](./03-fees-treasury.md) | Four fee buckets and the treasury |
+| [04-buy-protection.md](./04-buy-protection.md) | Two-track buy protection |
+| [05-lottery.md](./05-lottery.md) | Lottery eligibility, as a direction |
+| [06-dao.md](./06-dao.md) | DAO · decision rights |
+| [07-risk.md](./07-risk.md) | Risk statement |
 
-开放项（门槛数字、双轨合并方式、动态总费率中间档等）见官网与内部对齐页，不在此杜撰。
+---
+
+## Settled summary (2026-11-05)
+
+- Position: make TCG more fun to play · Trading Cards Assets
+- Always “graded cards.” With Renaiss, always “partner.”
+- Stake-pool hard cap about $1,000, first come, first served. The platform may take about 10–30% of a new pool and does not fill a pool by itself.
+- Participants whose stake counts toward the cap share about **5%** of that theme token’s supply, then unlock **daily over 30 days**. A staker is not necessarily the controller of the theme token.
+- **50% treasury**: the platform carries this out under the rules (buy graded cards of the theme, and buy back platform TCA).
+- Four fee buckets: **50 / 20 / 20 / 10** (treasury / platform / ads to the staking participants / buy back and burn the token of that trade).
+- Buy protection runs on two tracks at once. Soft cap on the raise about $100k. The remainder unlocks over about 10 days.
+- Lottery: at least 10 Renaiss SBTs, plus a holding of the matching theme token (amount not set). About every 24 hours.
+- DAO: tentatively 12 seats, community-sourced, placed on the list only after human review. Votes cover buybacks, burns, and which theme to support. Routine card buys are not voted.
+- Open items (the threshold figures, how the two tracks combine, the middle tiers of the dynamic total fee, and similar) sit on the site and the internal alignment page. They are not invented here.
 
 ---
 

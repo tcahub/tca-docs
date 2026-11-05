@@ -1,16 +1,16 @@
-# 03 · 税费与国库
+# 03 · Fees and the treasury
 
-成交费用按 **50 / 20 / 20 / 10** 拆开，四项合计 100%。
+Trading fees split **50 / 20 / 20 / 10**. The four shares add up to 100%.
 
-| 比例 | 用途 |
+| Share | Use |
 |------|------|
-| 50% | **国库**：平台按规则代为执行——购买该主题评级卡，并回购平台代币 TCA。两项内部分账比例未钉。 |
-| 20% | **平台**：发射台运作，归平台。 |
-| 20% | **广告**：归计入门槛内的质押参与者。 |
-| 10% | **回购销毁**：回购并销毁**本笔交易对应的币**（TCA→TCA，主题币→主题币）。 |
+| 50% | **Treasury.** The platform carries this out under the rules: buy graded cards of that theme, and buy back the platform token, TCA. The split between those two uses is not set. |
+| 20% | **Platform.** Running the launchpad. This share stays with the platform. |
+| 20% | **Ads.** Paid to staking participants whose stake counted toward the cap. |
+| 10% | **Buy back and burn.** Buy back and burn **the token of that trade** (TCA trades burn TCA; theme-token trades burn that theme token). |
 
-另计：质押代币奖励（主题代币供应约 5%，30 天每日解锁）不占用四桶。
+Counted separately: the staking token reward (about 5% of the theme-token supply, unlocked daily over 30 days) does not draw on the four buckets.
 
-## 动态总费率（草案·待定）
+## Dynamic total fee (draft · not set)
 
-约 $300K 累计成交以内总费率约 **10%**；更高档逐步下调，顶档方向约 **6%**。中间档与精确触发点、成交额口径未钉。降费后四桶仍按 50/20/20/10。
+At or under about $300K of cumulative volume, the total fee is about **10%**. Higher bands step down, and the top band points toward about **6%**. The middle bands, the exact triggers, and how volume is measured are not set. After a reduction, the four buckets still split 50/20/20/10.

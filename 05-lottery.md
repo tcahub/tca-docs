@@ -1,8 +1,8 @@
-# 05 · 抽奖资格方向
+# 05 · Lottery eligibility, as a direction
 
-抽奖尚未开办。草案资格方向：
+The lottery is not open. The draft direction for eligibility is:
 
-1. 持有不少于 **10** 枚 Renaiss SBT（不可转让的灵魂代币）
-2. 同时持有相应主题代币（**数量待定**）
+1. Hold at least **10** Renaiss SBTs (non-transferable soulbound tokens).
+2. Also hold the matching theme token (**amount not set**).
 
-意向约每 **24 小时**揭晓；奖池可挂钩交易额，金额不在本草案写死。计划用 X 登录表达参与意向；正式入口以发布为准。
+The intention is to reveal a result about every **24 hours**. The prize pool may be tied to trading volume. The amount is not fixed in this draft. The plan is to use an X login to record intent to take part. The live entry point follows the official release.
