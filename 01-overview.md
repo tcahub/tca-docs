@@ -1,11 +1,11 @@
-# 01 · 定位
+# 01 · Position
 
-**一句话：** 让 TCG 更好玩儿 · Trading Cards Assets。
+**One line:** Make TCG more fun to play · Trading Cards Assets.
 
-TCA 是交易卡主题的代币化发射台原型。平台重复同一套机制；皮卡丘、喷火龙、耿鬼等各自占用一个槽位，同一主题仅有一个槽位。还可扩展伊布、烈空坐、路飞（海贼王）、未来上线的火影忍者系列等。
+TCA is a prototype launchpad for trading-card themes. The platform repeats one mechanism. Pikachu, Charizard, Gengar, and the others each occupy one slot, and the same theme has only one slot. It can extend to Eevee, Rayquaza, Luffy (One Piece), a Naruto series when that line comes online, and further themes.
 
-当前阶段是纸面。本页不连接钱包，不进行买卖，也不开办抽奖。
+This stage is paper. This page does not connect a wallet, does not buy or sell, and does not run a lottery.
 
-## 与 Renaiss
+## With Renaiss
 
-合作方向包括：国库买卡、链上托管、抽奖资格中的 SBT 等。文案一律「合作」，禁止「绑定」。站内链接统一用邀请链接：https://www.renaiss.xyz/ref/tcahub
+The partnership covers treasury card buys, on-chain custody, the SBT used in lottery eligibility, and related work. Copy says “partner,” and does not say “bound.” Links on the site use the invite URL: https://www.renaiss.xyz/ref/tcahub

@@ -1,9 +1,9 @@
-# 07 · 风险声明
+# 07 · Risk statement
 
-相关代币价格可能归零；实体评级卡亦有市场波动。流动性、保管、规则变更和技术故障都可能造成损失。上文的比例、软顶、解锁时间和抽奖资格都是草案，正式发布时可以修改，也可以不采用。
+The price of the related tokens may go to zero. Physical graded cards also move with the market. Loss can also come from liquidity, custody, changes to the rules, or technical failure. The rates, soft cap, unlock times, and lottery eligibility above are draft. The official release may change them, or it may leave them unused.
 
-国库买卡指向 Renaiss 上的主题评级卡。是否购买、购买哪些卡、购买多少，取决于正式发布后的规则与实际执行。
+Treasury card buys point to graded cards of the theme on Renaiss. Whether anything is bought, which cards, and how many depend on the rules after the official release and on how those rules are carried out.
 
-**不构成财务建议。 / Not financial advice.**
+**Not financial advice.**
 
-文案约定：不写「实体卡归零」恐吓句；可写相关代币可能归零。
+Copy rule: do not write a scare line that says physical cards go to zero. It is acceptable to write that the related tokens may go to zero.

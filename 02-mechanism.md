@@ -1,33 +1,33 @@
-# 02 · 机制（七步）
+# 02 · Mechanism (seven steps)
 
-一条主题走完下面七步。没有写进草案的门槛和时点，不补造数字。
+One theme goes through the seven steps below. Where the draft does not give a threshold or a time, no number is filled in.
 
-## 01 质押
+## 01 Stake
 
-一人或多人对该主题质押评级卡。池子约 **$1,000** 硬顶、先到先得；超额退回（例：塞到 $1,400，只算先到的 $1,000）。平台方可参与新池约 **10–30%**，但不独自打满。
+One or more people stake graded cards of that theme. The pool has a hard cap of about **$1,000**, first come, first served. Anything above the cap is returned (for example, $1,400 put in counts only as the first $1,000). The platform may take about **10–30%** of a new pool, and it does not fill a pool by itself.
 
-计入门槛的参与人均分该主题代币供应约 **5%**；每人分到的部分再按 **30 天每日解锁**到其地址。质押者不一定是主题代币控制人。品级与保管对接 Renaiss 链上托管。打满后生成收付地址。
+Participants whose stake counts toward the cap share about **5%** of that theme token’s supply. Each person’s share then unlocks **daily over 30 days** to that person’s address. A staker is not necessarily the controller of the theme token. Grading and custody connect to Renaiss on-chain custody. When the pool is full, a receive-and-pay address is created.
 
-## 02 发射
+## 02 Launch
 
-一个主题对应一种代币。发射台本身保持为平台。
+One theme corresponds to one theme token. The launchpad itself remains the platform.
 
-## 03 买卖保护
+## 03 Buy and sell protection
 
-设有软顶。填充越快，即时可售比例越低，其余延后解锁。双轨细则见 [04-buy-protection.md](./04-buy-protection.md)。
+There is a soft cap. The faster the pool fills, the smaller the share that can be sold at once. The rest unlocks later. Both tracks are in [04-buy-protection.md](./04-buy-protection.md).
 
-## 04 税费四桶
+## 04 Four fee buckets
 
-每笔成交产生的费用，按 50%、20%、20%、10% 进入四个用途。见 [03-fees-treasury.md](./03-fees-treasury.md)。
+The fee on each trade is split 50%, 20%, 20%, and 10% across four uses. See [03-fees-treasury.md](./03-fees-treasury.md).
 
-## 05 Renaiss 买卡
+## 05 Buying cards on Renaiss
 
-50% 国库由平台按规则代为执行：在 Renaiss 购买该主题评级卡，并回购平台代币 TCA。
+The platform carries out the 50% treasury under the rules: it buys graded cards of that theme on Renaiss, and it buys back the platform token, TCA.
 
-## 06 达门槛退质押
+## 06 Return the stake when the threshold is met
 
-门槛与时点待定；倾向等约 10 天买入解锁走完再退。按正式规则退回计入门槛的质押参与者。
+The threshold and the timing are not set. The lean is to wait until the buy unlock of about 10 days has finished, then return the stake. Under the official rules, the stake is returned to the participants whose stake counted toward the cap.
 
-## 07 国库抽奖
+## 07 Treasury lottery
 
-按主题国库开放。资格见 [05-lottery.md](./05-lottery.md)。意向约每 24 小时揭晓。
+Each theme treasury can open its own draw. Eligibility is in [05-lottery.md](./05-lottery.md). The intention is to reveal a result about every 24 hours.

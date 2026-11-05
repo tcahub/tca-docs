@@ -1,15 +1,15 @@
-# 04 · 买入保护（双轨并行）
+# 04 · Buy protection (two tracks at once)
 
-募资软顶约 **$100,000**。两套逻辑并行；即时以外约 **10 天解锁**。两轨如何合并（取严 / 取松 / 合成）仍待钉。
+The soft cap on the raise is about **$100,000**. Two rules run in parallel, and each states the share that can be sold immediately. The share that is not available immediately unlocks over about **10 days**. How the two tracks are combined (the stricter one, the looser one, or a blend) is not set.
 
-## 轨 A · 打满用时
+## Track A · Time to fill
 
-- 约 1 小时内 → 10%
-- 约 2 小时内 → 20%
-- 约 3 小时后 → 30%
+- Within about 1 hour → 10%
+- Within about 2 hours → 20%
+- After about 3 hours → 30%
 
-## 轨 B · 填充进度
+## Track B · Fill progress
 
-- 约 ≤35% → 10%
-- 约 35–70% → 20%
-- 约 ＞70% → 30%
+- About ≤35% → 10%
+- About 35–70% → 20%
+- About >70% → 30%
