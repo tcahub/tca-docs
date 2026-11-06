@@ -28,7 +28,7 @@ The soft cap on the raise is about **$100,000**. The share that can be sold imme
 
 ## 04 Four fee buckets
 
-The fee on each trade is split 40% Treasury, 20% Platform, 20% Staker share, and 20% Buyback & burn. See [03-fees-treasury.md](./03-fees-treasury.md).
+The fee on each trade is split 40% Treasury, 20% Platform, 20% Staker share, and 20% Buyback & burn. A theme token’s total fee is a fixed **2.5%**. TCA is **10%**, then **5%** after about **$1M** cumulative volume, then **2.5%** after about **$10M**. After a step-down, the buckets still split 40/20/20/20. See [03-fees-treasury.md](./03-fees-treasury.md).
 
 ## 05 Buying cards on Renaiss
 

@@ -19,6 +19,11 @@ flowchart LR
 
 Counted separately: the staking token reward (about 5% of the theme-token supply, unlocked daily over 30 days) does not draw on the four buckets.
 
-## Dynamic total fee (draft · not set)
+## Total fee
 
-At or under about $300K of cumulative volume, the total fee is about **10%**. Higher bands step down, and the top band points toward about **6%**. The middle bands, the exact triggers, and how volume is measured are not set. After a reduction, the four buckets still split 40/20/20/20.
+| Token | Total fee |
+|------|-----------|
+| **Theme token** | Fixed **2.5%**. |
+| **TCA** | **10%**, then **5%** after about **$1M** cumulative volume, then **2.5%** after about **$10M** cumulative volume. |
+
+After a TCA step-down, the four buckets still split **40 / 20 / 20 / 20** (Treasury / Platform / Staker share / Buyback & burn).
