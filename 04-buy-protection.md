@@ -1,6 +1,6 @@
 # 04 · Buy protection
 
-The soft cap on the raise is about **$100,000**. The share that can be sold immediately depends on how fast the pool fills. The rest unlocks over about **10 days**.
+The soft cap on the raise is about **$100,000**. The share that can be sold immediately depends on how fast the pool fills. The locked remainder unlocks evenly across about **10 days**, a portion each day. Example: 10% instantly sellable → the remaining 90% is about **9% of the purchase total per day** for about 10 days.
 
 ## Fast fill · Progress track
 
