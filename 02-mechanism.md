@@ -1,43 +1,43 @@
 # 02 · Mechanism (seven steps)
 
-One theme goes through the seven steps below. Where the draft does not give a threshold or a time, no number is filled in.
+A theme runs through the seven steps below. Where this draft does not give a threshold or a time, the number stays blank.
 
 ```mermaid
 flowchart TD
-  stake[01 Stake] --> launch[02 Launch]
-  launch --> protect[03 Buy and sell protection]
+  pledge[01 Pledge] --> launch[02 Launch]
+  launch --> protect[03 Buy protection]
   protect --> fees[04 Four fee buckets]
-  fees --> cards[05 Buying cards on Renaiss]
-  cards --> returnStake[06 Return the stake]
-  returnStake --> lottery[07 Treasury lottery]
+  fees --> cards[05 Buy cards on Renaiss]
+  cards --> returnPledge[06 Return the pledge]
+  returnPledge --> lottery[07 Treasury lottery]
 ```
 
-## 01 Stake
+## 01 Pledge
 
-One or more people stake graded cards of that theme. The pool has a hard cap of about **$1,000**, first come, first served. Anything above the cap is returned (for example, $1,400 put in counts only as the first $1,000). The platform may take about **10–30%** of a new pool, and it does not fill a pool by itself.
+One or more people pledge graded cards of that theme. The pool has a hard cap of about **$1,000**, first come, first served. Anything above the cap is returned (for example, $1,400 pledged counts only as the first $1,000). The platform may join a new pool for about **10–30%**, and it does not fill the pool alone.
 
-Participants whose stake counts toward the cap share about **5%** of that theme token’s supply. Each person’s share then unlocks **daily over 30 days** to that person’s address. A staker is not necessarily the controller of the theme token. Grading and custody connect to Renaiss on-chain custody. When the pool is full, a receive-and-pay address is created.
+Pledgers whose pledges count toward the cap split about **5%** of that theme token’s supply equally. Each person’s share then unlocks daily to that person’s address over **30 days**. Example: five people each get about 1%, then ÷30 is the daily amount; one person who fills the cap alone receives about 5% on that 30-day daily unlock. A pledger is not necessarily the controller of the theme token. Grade and custody connect to Renaiss on-chain custody. When the pool is full, a receive-and-pay address is created.
 
 ## 02 Launch
 
-One theme corresponds to one theme token. The launchpad itself remains the platform.
+One theme, one token. The sale fills toward the soft cap of about **$100,000**. Once that cap is reached, the token launches and can trade. The launchpad itself stays the platform.
 
-## 03 Buy and sell protection
+## 03 Buy protection
 
-The soft cap on the raise is about **$100,000**. The share that can be sold immediately depends on how fast the pool fills. A fast fill uses the progress track (about ≤35% / 35–70% / >70% → 10% / 20% / 30%). A slow fill uses the time track (about 1 hour / 2 hours / 3 hours or later → 10% / 20% / 30%). The locked remainder unlocks evenly across about **10 days**, a portion each day. Example: 10% instantly sellable → the remaining 90% is about **9% of the purchase total per day** for about 10 days. Bands are in [04-buy-protection.md](./04-buy-protection.md).
+During filling, how fast the pool fills chooses the instantly sellable share. A fast fill uses the progress track (about ≤35% / 35–70% / >70% → 10% / 20% / 30%). A slow fill uses the time track (within about 1 hour / within about 2 hours / after about 3 hours → 10% / 20% / 30%). The locked remainder unlocks evenly across about **10 days**, a portion each day. Example: 10% instantly sellable → the remaining 90% is about **9% of the purchase total per day** for about 10 days. When the soft cap is reached, the token launches and this rule lapses. Bands are in [04-buy-protection.md](./04-buy-protection.md).
 
 ## 04 Four fee buckets
 
-The fee on each trade is split 40% Treasury, 20% Platform, 20% Staker share, and 20% Buyback & burn. A theme token’s total fee is a fixed **2.5%**. TCA is **10%**, then **5%** after about **$1M** cumulative volume, then **2.5%** after about **$10M**. After a step-down, the buckets still split 40/20/20/20. See [03-fees-treasury.md](./03-fees-treasury.md).
+Fees on each trade go 40% Treasury, 20% Platform, 20% Staker share, and 20% Buyback & burn. A theme token’s total fee is a fixed **2.5%**. TCA is **10%** until about **$1M** of cumulative volume, then **5%** until about **$10M**, then **2.5%**. After any step-down the buckets stay 40/20/20/20. See [03-fees-treasury.md](./03-fees-treasury.md).
 
-## 05 Buying cards on Renaiss
+## 05 Buy cards on Renaiss
 
-The platform carries out the 40% treasury under the rules: it buys graded cards of that theme on Renaiss, and it buys back the platform token, TCA.
+The platform executes the 40% treasury by the rules: it buys graded cards of that theme on Renaiss, and it buys back the platform token, TCA.
 
-## 06 Return the stake when the threshold is met
+## 06 Return the pledge
 
-The threshold and the timing are not set. The lean is to wait until the buy unlock of about 10 days has finished, then return the stake. Under the official rules, the stake is returned to the participants whose stake counted toward the cap.
+The threshold and the timing are still open. The formal text may require the daily unlock to finish before the pledge is returned. Pledgers who counted are paid back under the formal rules.
 
 ## 07 Treasury lottery
 
-Each theme treasury can open its own draw. Eligibility is in [05-lottery.md](./05-lottery.md). The intention is to reveal a result about every 24 hours.
+Opened per theme treasury. Eligibility is in [05-lottery.md](./05-lottery.md). The intent is a reveal about every 24 hours. This page does not sell tickets or draw winners.
