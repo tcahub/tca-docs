@@ -1,15 +1,15 @@
-# 04 · Buy protection (two tracks at once)
+# 04 · Buy protection
 
-The soft cap on the raise is about **$100,000**. Two rules run in parallel, and each states the share that can be sold immediately. The share that is not available immediately unlocks over about **10 days**. How the two tracks are combined (the stricter one, the looser one, or a blend) is not set.
+The soft cap on the raise is about **$100,000**. The share that can be sold immediately depends on how fast the pool fills. The rest unlocks over about **10 days**.
 
-## Track A · Time to fill
-
-- Within about 1 hour → 10%
-- Within about 2 hours → 20%
-- After about 3 hours → 30%
-
-## Track B · Fill progress
+## Fast fill · Progress track
 
 - About ≤35% → 10%
 - About 35–70% → 20%
 - About >70% → 30%
+
+## Slow fill · Time track
+
+- Within about 1 hour → 10%
+- Within about 2 hours → 20%
+- About 3 hours or later → 30%

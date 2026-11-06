@@ -22,7 +22,7 @@ This repository holds **public paper docs** only. Rates, the soft cap, unlock sc
 | [01-overview.md](./01-overview.md) | Position and the one-liner |
 | [02-mechanism.md](./02-mechanism.md) | Seven steps from staking to the lottery |
 | [03-fees-treasury.md](./03-fees-treasury.md) | Four fee buckets and the treasury |
-| [04-buy-protection.md](./04-buy-protection.md) | Two-track buy protection |
+| [04-buy-protection.md](./04-buy-protection.md) | Buy protection by fill speed |
 | [05-lottery.md](./05-lottery.md) | Lottery eligibility, as a direction |
 | [06-dao.md](./06-dao.md) | DAO · decision rights |
 | [07-risk.md](./07-risk.md) | Risk statement |
@@ -38,10 +38,10 @@ This repository holds **public paper docs** only. Rates, the soft cap, unlock sc
 - Participants whose stake counts toward the cap share about **5%** of that theme token’s supply, then unlock **daily over 30 days**. A staker is not necessarily the controller of the theme token.
 - **40% treasury**: the platform carries this out under the rules (buy graded cards of the theme, and buy back platform TCA).
 - Four fee buckets: **40 / 20 / 20 / 20** (Treasury / Platform / Staker share / Buyback & burn). Buyback & burn buys back and burns the token of that trade.
-- Buy protection runs on two tracks at once. Soft cap on the raise about $100k. The remainder unlocks over about 10 days.
+- Buy protection: soft cap about $100k. The instantly sellable share follows how fast the pool fills. A fast fill uses the progress track (about ≤35% / 35–70% / >70% → 10% / 20% / 30%). A slow fill uses the time track (about 1 hour / 2 hours / 3 hours or later → 10% / 20% / 30%). The rest unlocks over about 10 days.
 - Lottery: at least 10 Renaiss SBTs, plus a holding of the matching theme token (amount not set). About every 24 hours.
 - DAO: tentatively 12 seats, community-sourced, placed on the list only after human review. Votes cover buybacks, burns, and which theme to support. Routine card buys are not voted.
-- Open items (the threshold figures, how the two tracks combine, the middle tiers of the dynamic total fee, and similar) are listed in [OPEN-ITEMS.md](./OPEN-ITEMS.md). They are not invented here.
+- Open items (the threshold figures, the middle tiers of the dynamic total fee, and similar) are listed in [OPEN-ITEMS.md](./OPEN-ITEMS.md). They are not invented here.
 
 ---
 
