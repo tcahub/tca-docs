@@ -38,10 +38,11 @@ This repository holds **public paper docs** only. Rates, the soft cap, unlock sc
 - Participants whose stake counts toward the cap share about **5%** of that theme token’s supply, then unlock **daily over 30 days**. A staker is not necessarily the controller of the theme token.
 - **40% treasury**: the platform carries this out under the rules (buy graded cards of the theme, and buy back platform TCA).
 - Four fee buckets: **40 / 20 / 20 / 20** (Treasury / Platform / Staker share / Buyback & burn). Buyback & burn buys back and burns the token of that trade.
+- Total fee: a theme token is a fixed **2.5%**. TCA is **10%**, then **5%** after about **$1M** cumulative volume, then **2.5%** after about **$10M**. After a step-down, the buckets still split **40 / 20 / 20 / 20**.
 - Buy protection: soft cap about $100k. The instantly sellable share follows how fast the pool fills. A fast fill uses the progress track (about ≤35% / 35–70% / >70% → 10% / 20% / 30%). A slow fill uses the time track (about 1 hour / 2 hours / 3 hours or later → 10% / 20% / 30%). The rest unlocks over about 10 days.
 - Lottery: at least 10 Renaiss SBTs, plus a holding of the matching theme token (amount not set). About every 24 hours.
 - DAO: tentatively 12 seats, community-sourced, placed on the list only after human review. Votes cover buybacks, burns, and which theme to support. Routine card buys are not voted.
-- Open items (the threshold figures, the middle tiers of the dynamic total fee, and similar) are listed in [OPEN-ITEMS.md](./OPEN-ITEMS.md). They are not invented here.
+- Open items (the threshold figures, and similar) are listed in [OPEN-ITEMS.md](./OPEN-ITEMS.md). They are not invented here.
 
 ---
 
