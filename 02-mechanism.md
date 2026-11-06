@@ -24,7 +24,7 @@ One theme corresponds to one theme token. The launchpad itself remains the platf
 
 ## 03 Buy and sell protection
 
-There is a soft cap. The faster the pool fills, the smaller the share that can be sold at once. The rest unlocks later. Both tracks are in [04-buy-protection.md](./04-buy-protection.md).
+The soft cap on the raise is about **$100,000**. The share that can be sold immediately depends on how fast the pool fills. A fast fill uses the progress track (about ≤35% / 35–70% / >70% → 10% / 20% / 30%). A slow fill uses the time track (about 1 hour / 2 hours / 3 hours or later → 10% / 20% / 30%). The rest unlocks over about **10 days**. Bands are in [04-buy-protection.md](./04-buy-protection.md).
 
 ## 04 Four fee buckets
 
