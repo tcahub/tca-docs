@@ -2,6 +2,16 @@
 
 One theme goes through the seven steps below. Where the draft does not give a threshold or a time, no number is filled in.
 
+```mermaid
+flowchart TD
+  stake[01 Stake] --> launch[02 Launch]
+  launch --> protect[03 Buy and sell protection]
+  protect --> fees[04 Four fee buckets]
+  fees --> cards[05 Buying cards on Renaiss]
+  cards --> returnStake[06 Return the stake]
+  returnStake --> lottery[07 Treasury lottery]
+```
+
 ## 01 Stake
 
 One or more people stake graded cards of that theme. The pool has a hard cap of about **$1,000**, first come, first served. Anything above the cap is returned (for example, $1,400 put in counts only as the first $1,000). The platform may take about **10–30%** of a new pool, and it does not fill a pool by itself.
@@ -18,11 +28,11 @@ There is a soft cap. The faster the pool fills, the smaller the share that can b
 
 ## 04 Four fee buckets
 
-The fee on each trade is split 50%, 20%, 20%, and 10% across four uses. See [03-fees-treasury.md](./03-fees-treasury.md).
+The fee on each trade is split 40% Treasury, 20% Platform, 20% Staker share, and 20% Buyback & burn. See [03-fees-treasury.md](./03-fees-treasury.md).
 
 ## 05 Buying cards on Renaiss
 
-The platform carries out the 50% treasury under the rules: it buys graded cards of that theme on Renaiss, and it buys back the platform token, TCA.
+The platform carries out the 40% treasury under the rules: it buys graded cards of that theme on Renaiss, and it buys back the platform token, TCA.
 
 ## 06 Return the stake when the threshold is met
 
