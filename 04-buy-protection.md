@@ -1,17 +1,23 @@
-# 04 · Buy protection
+# 04 · Soft cap and quota release
 
-The soft cap on the raise is about **$100,000**. During filling, how fast the pool fills chooses the instantly sellable share. The locked remainder unlocks evenly across about **10 days**, a portion each day. Example: 10% instantly sellable → the remaining 90% is about **9% of the purchase total per day** for about 10 days. When the soft cap is reached, the token launches and this rule lapses.
+Soft cap of about **$100,000**. During filling, two tracks run in parallel and each sets an instantly released share of a purchase. The rest is locked and releases daily over **21 days**.
 
-A fast fill uses the progress track. A slow fill uses the time track.
+**Whichever track triggers first applies — once set, it does not switch.**
 
-## Fast fill · Progress track
-
-- About ≤35% → 10%
-- About 35–70% → 20%
-- About >70% → 30%
-
-## Slow fill · Time track
+## Track A · Time to fill
 
 - Within about 1 hour → 10%
 - Within about 2 hours → 20%
 - After about 3 hours → 30%
+
+## Track B · Fill progress
+
+- About ≤35% filled → 10%
+- About 35–70% filled → 20%
+- About >70% filled → 30%
+
+Example: a 100u buy within the first hour and before 35% progress releases 10u immediately. The remaining 90u stays locked and releases daily over 21 days.
+
+When the soft cap is reached the token launches, this rule lapses, and trading is free.
+
+Both tracks are drafts and follow the formal release.

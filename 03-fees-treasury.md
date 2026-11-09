@@ -1,6 +1,6 @@
 # 03 · Fees and the treasury
 
-Trading fees split **40 / 20 / 20 / 20** (Treasury / Platform / Staker share / Buyback & burn). The four shares add up to 100%.
+Trade fees split **40 / 20 / 20 / 20**. The four shares add up to 100%.
 
 ```mermaid
 flowchart LR
@@ -12,18 +12,13 @@ flowchart LR
 
 | Share | Use |
 |------|------|
-| 40% | **Treasury.** The platform executes this by the rules: buy graded cards of that theme, and buy back the platform token, TCA. The split between those two uses is not set. |
-| 20% | **Platform.** Runs the launchpad. This share stays with the platform. |
-| 20% | **Staker share.** Paid to pledgers whose pledges counted toward the cap. |
-| 20% | **Buyback & burn.** Buy back and burn **the token of that trade** (TCA trades burn TCA; theme-token trades burn that theme token). |
+| 40% | **Treasury.** Buy graded cards of that theme on Renaiss, and buy back the platform token TCA. Purchases and offers are disclosed on a regular basis. |
+| 20% | **Platform.** Runs the launchpad. It stays with the platform. |
+| 20% | **Staker share.** Goes to pledgers whose pledges counted toward the cap. For theme tokens this share belongs to that theme's pledgers. The seven-step shorthand calls this bucket **20% pledgers**. |
+| 20% | **Buyback & burn.** Buys back and burns the token that this trade is for. Supply only shrinks. |
 
-Counted separately: the pledger token reward (about 5% of the theme-token supply, split equally and unlocked daily over 30 days) does not draw on the four buckets. TCA is both the name of the launchpad and, in this draft, the platform token the treasury can buy back.
+**Theme tokens: a flat 2.5%.** Every fee still splits 40 / 20 / 20 / 20.
 
-## Total fee
+TCA is both the name of the launchpad and, in this draft, the platform token the treasury can buy back.
 
-| Token | Total fee |
-|------|-----------|
-| **Theme token** | Fixed **2.5%**. |
-| **TCA** | **10%** until about **$1M** cumulative volume, then **5%** until about **$10M**, then **2.5%**. |
-
-After any step-down, the four buckets still split **40 / 20 / 20 / 20** (Treasury / Platform / Staker share / Buyback & burn).
+Counted separately: about **5%** of the theme-token supply is split equally by counted pledgers and unlocked daily over 30 days. That supply reward does not draw on the four buckets. The card itself is a refundable pledge. The 5% is the reward, not the compensation.
